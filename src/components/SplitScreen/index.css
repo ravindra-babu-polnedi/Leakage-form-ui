@@ -1,0 +1,15 @@
+.split-screen {
+  display: flex;
+}
+
+.navigation {
+  flex: 1;
+  background-color: #0b1933;
+  height: 100vh;
+  color: white;
+}
+
+.content {
+  flex: 6;
+  height: 100vh;
+}
